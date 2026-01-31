@@ -1,5 +1,5 @@
 {
-    "status": "enable",
+    "status": "disable",
     "data": {
         "proxy_server": "208.76.40.112:2741"
     }
